@@ -1,4 +1,6 @@
 # Guess-My-Number
+
+# [ClickHere](https://karthik1172.github.io/Guess-My-Number/) for live demo
 DOM manipluation using Javascript.
 
 This is wonderful fun game to guess the secret number between 1 and 20. 
